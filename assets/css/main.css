@@ -231,13 +231,11 @@ header #menu-btn:hover{
 
 /*--------------------- 4- Home Area CSS (Start) ---------------------*/
 .home{
-    padding: 0rem 5%;
+    padding: 10rem 5%;
     background-color: var(--black);
-    min-height: 100vh;
 }
 
 .home .box-container{
-    min-height: 100vh;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
