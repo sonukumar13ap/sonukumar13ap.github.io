@@ -1085,8 +1085,12 @@ header #menu-btn:hover{
     border-color: var(--white);
 }
 
-.contact-form .box::placeholder{
-    color: var(--grey);
+.placeholddng::placeholder {
+  color: var(--danger);
+}
+
+.placeholdgrr::placeholder {
+  color: var(--grey);
 }
 
 .contact-form textarea{
